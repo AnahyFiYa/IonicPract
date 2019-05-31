@@ -1,5 +1,6 @@
 {
   "name": "Wish",
   "integrations": {},
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "id": "8e51cb96"
 }
